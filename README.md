@@ -12,13 +12,12 @@ Corresponding Data Visualisation is performed. Time series lends itself naturall
 4.Heat map 
 Several Model Building using Machine Learning techniques is used. The LSTM model giving the best possible Accuracy and hence is used for the further predictions for the test data and the deployment purpose. 
 Here, we have taken LSTM as our Final Model algorithms for the deployment.
-
 The algorithm has achieved 86 % Accuracy and 0.85 as R Squared value
-
 Also it has low MSE, MAE  and RMSE value .
-
 We have deployed the Crude oil price prediction using Stream-lit as the platform
 Thankyou. 
+
+OIL PRICE PREDICTION USING FORECATSING
 
 
 
